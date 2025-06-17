@@ -120,6 +120,8 @@ Transitions: R = {(s1,s2), (s2,s3), (s3,s2), (s3,s4), (s3,s5), (s5,s6), (s6,s1),
 ![Kripke Structure](struttura_Di_Kripke.png)
 *Kripke Structure*
 
+--
+
 ### NuSMV Verification Model
 
 ```smv
